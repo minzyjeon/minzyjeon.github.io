@@ -1,4 +1,4 @@
-title: Just the Docs Template
+title: 전민지가 만든 github 블로그
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -9,3 +9,7 @@ aux_links:
   
 plugins:
   - jekyll-default-layout
+
+logo: "/assets/images/avatar.png"
+
+favicon_ico: "/assets/images/favicon.ico"
